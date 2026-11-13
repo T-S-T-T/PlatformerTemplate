@@ -1,3 +1,5 @@
 ﻿<Solution>
+  <Project Path="PlatformerTemplate.Runtime.csproj" />
+  <Project Path="PlatformerTemplate.Editor.csproj" />
   <Project Path="Unity.2D.Welcome.csproj" />
 </Solution>
